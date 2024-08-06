@@ -9,7 +9,7 @@ With over seven years of experience across diverse projects and companies, I am 
 - **Programming Languages**: Javascript, Typescript
 - **Frontend Development**: React, HTML, CSS, Next.js, Storybook, Redux, GraphQL
 - **Test Development**: Jest, react-testing-library, Nightwatch.js
-- **Version control**: Git, Github, Bitbucket, GitLab
+- **Other Tools**: Git, Github, Bitbucket
 
 ## Soft Skills 💪🏻
 
