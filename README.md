@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Bruna! I’m a skilled Frontend Engineer focused on building robust web applications.
 
-<!--
-**bnbs/bnbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+With over seven years of experience across diverse projects and companies, I am a highly adaptable developer with proven skills across a wide range of technologies and frameworks. My passion for problem solving and collaborative working drives me to consistently deliver exceptional solutions for clients. I maintain a strong commitment to continuous learning and professional growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills 🛠️
+
+- Programming Languages: Javascript, Typescript
+- Frontend Development: React, HTML, CSS, Next.js, Storybook, Redux, GraphQL
+- Test Development: Jest, react-testing-library, Nightwatch.js
+- Version control: Git, Github, Bitbucket, GitLab
+
+## Soft Skills 💪🏻
+
+- Communication
+- Problem-solving
+- Teamwork
+- Time Management
+- Patience
+- Flexibility
+
+## How to reach me 📫
+
+- 📫 [Email](mailto:bruna.bnayara@outlook.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bruna-nayara/)
