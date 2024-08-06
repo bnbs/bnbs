@@ -1,4 +1,4 @@
-👋 Hi, I'm Bruna! I’m a skilled Frontend Engineer focused on building robust web applications.
+👋 Hi, I'm **Bruna**! I’m a skilled Frontend Engineer focused on building robust web applications.
 
 ## About Me
 
@@ -6,10 +6,10 @@ With over seven years of experience across diverse projects and companies, I am 
 
 ## Technical Skills 🛠️
 
-- Programming Languages: Javascript, Typescript
-- Frontend Development: React, HTML, CSS, Next.js, Storybook, Redux, GraphQL
-- Test Development: Jest, react-testing-library, Nightwatch.js
-- Version control: Git, Github, Bitbucket, GitLab
+- **Programming Languages**: Javascript, Typescript
+- **Frontend Development**: React, HTML, CSS, Next.js, Storybook, Redux, GraphQL
+- **Test Development**: Jest, react-testing-library, Nightwatch.js
+- **Version control**: Git, Github, Bitbucket, GitLab
 
 ## Soft Skills 💪🏻
 
